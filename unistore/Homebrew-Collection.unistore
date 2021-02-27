@@ -1,0 +1,29 @@
+{
+	"storeInfo": {
+		"title": "Homebrew-Collection",
+		"author": "tntboom5656",
+		"description": "A collection of 3ds homebrew from over the years.",
+		"barColor": "#395472",
+		"bgBottomColor": "#262C4D",
+		"bgTopColor": "#60A8C0",
+		"textColor": "#FFFFFF",
+		"selectedColor": "#78C0D8",
+		"unselectedColor": "#4D7684",
+		"version": 1
+	},
+	"?": {
+		"info": {
+			"version": "1",
+			"author": "tntboom5656",
+			"description": "3ds Homebrew",
+			"fileSize": 0
+		},
+		"script": [{
+			"type": "Collection",
+			"repo": "github",
+			"file": "?",
+			"output": "?",
+			"message": "?"
+		}]
+	}
+}
